@@ -28,4 +28,3 @@ int main()
     int ans = lengthoflastworld(s);
     cout<<ans<<endl;
     return 0;
-}
